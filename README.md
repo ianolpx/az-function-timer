@@ -23,3 +23,10 @@ This guide will walk you through creating a Python-based Timer Trigger using Azu
 
 ### Step 5: Verify Deployment via Logs
 - After deploying your function, you can monitor its activity by checking the logs in the **Stream Logs** section of Azure Functions.
+
+## More information
+1) CosmosDB (with az functions)
+- https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=get-started%2Casgi%2Capplication-level&pivots=python-mode-decorators
+- https://learn.microsoft.com/ko-kr/azure/cosmos-db/throughput-serverless
+2) key-vault (envs params)
+- https://medium.com/@dssc2022yt/-accessing-azure-key-vault-secrets-with-azure-functions-2e651980f292
